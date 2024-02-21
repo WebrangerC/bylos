@@ -1,0 +1,3 @@
+# About the **K**nowledge Garden
+
+This is a place for snippets of processed information (knowledge) to grow and mature. Maybe there are Evergreen thoughts or expanding treatises.  I'm not sure what this area looks like yet, but I propose that the difference between information and knowledge has to do with heuristics and rule to apply information. This perspective leads to the thought that data and information are  nouns and knowledge is a verb.

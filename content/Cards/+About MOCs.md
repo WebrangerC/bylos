@@ -1,0 +1,1 @@
+MOCs are **M**aps **O**f **C**ontent, a term I picked up from Nick Milo, basically a note that provides primarily "links" to associated information rather than a piece of information itself. At its most basic it is an Index, but it can be expanded by using searches, links and tags to draw information together to spark ideation.

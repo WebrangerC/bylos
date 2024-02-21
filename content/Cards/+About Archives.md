@@ -1,0 +1,2 @@
+# About **A**rchives
+Archives are a place to move completed projects and processed information so it can easily be left out of on-going activities (seaches, queries) but is available for deeper research.

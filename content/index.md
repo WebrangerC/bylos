@@ -1,20 +1,19 @@
 ---
-title: Coherent Decision Solutions
-date: 2024-01-26
+pageno: 00.01
+slug: "home"
 ---
-# <span style="color:red; font-size:1em"><b>C</b>oherent   <b>D</b>ecision <b>S</b>olutions  (<b>CDSolns</b>)</span>
+# Build YOUR Life Operating System (BYLOS)
 
-![[Welcome to Coherent Decision Solutions]]
+BYLOS is the instantiation of my Life Operating System (FAKRA) using Obsidian.md. It is a work-in-progress  describing [[01-01 Introduction|FAKRA]] and [[Musings_Introduction|discussing the concepts]], the tool [[Obsidian Introduction|Obsidian]] and provides an [[+About Atlas|example]] of the pairing. As this is a work in progress, I find that I am adding/changing things sometimes before I capture them here. It makes for a slippery slope but should provide some [[2022-07-25_Why am I even doing this website|insight]] to others (and keep me focused).
 
+# Latest [[Blog_Index|Blog]] Posts
+![[2023-09-05_Back to Update Site]]
+![[2022-10-25_keywords]]
+![[2022-09-26_Moving from Folders to MOCs]]
+![[2022-09-22_To Dos]]
 
-# Latest [[98-Websites/Website-CDSolns/published/Blog/Blog Index|Blog]] Posts
-![[2020-10-21_A systems engineer-What do you do]]
-![[2020-10-09_MBSE is the model NOT the tool]]
-
-#### [[Resources]]
-
-
-
+# Latest [[Musings Index|Musing]]
+![[2022-07-25_Why am I even doing this website]]
 
 
 
