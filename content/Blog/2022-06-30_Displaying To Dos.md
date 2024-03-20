@@ -1,14 +1,12 @@
 ---
 tags:
-- date/2022-06
-- Productivity
-- Obsidian
-- Daily-Note
-started:  2022-06-30
+  - Productivity
+  - Obsidian
+  - Daily-Note
+started: 2022-06-30
 published: 2022-06-30
 ---
 
-# Displaying To Dos
 I started out carrying a display of my manually set daily to-do list in my Daily Note:
 ![[DailyNoteScreen_2022-05-15.png]]
 

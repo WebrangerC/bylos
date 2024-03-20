@@ -14,8 +14,6 @@ tags:
   - "#migrate"
 ---
 
-# 2023-12-06_evernote bankruptcy
-
 My slow walk of data/notes, etc from FAKRA to VACAR is providing a chance for me to prune and clear my headspace (see what I did there). 
 
 My original move from evernote to obsidian was a data dump and it was literally a trash pile. I didn't have any good way of making sense of all the saved notes since it was literally a collection of anything:

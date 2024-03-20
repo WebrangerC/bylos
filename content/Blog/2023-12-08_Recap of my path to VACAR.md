@@ -18,7 +18,6 @@ importance: 4
 urgency: 5
 state: develop
 ---
-# 2023-12-08_Recap of my path to VACAR
 I was reviewing my path in getting to and using Obsidian:
 - implementing PARA in Evernote (2020-06)
 - migrating my data from Evernote to Obsidian(2021-05)

@@ -12,7 +12,7 @@ Obsidian is a tool that stores data locally but synchronizes using the internet 
 
 For a system to work for **YOU** (and for you to use it), **YOU** have to determine what **YOUR** personal motivation are and select or create a compatible system to support your goals.
 
-**My choice is to create a system addressing all four areas, a [[life operating system|Life OS]]:**
+**My choice is to create a system addressing all four areas, a [[Life Operating System|Life OS]]:**
 1.  **Life-oriented philosophy/principled living** driving motivation  ==> **Focus**
 2. **Planning/Productivity** (task management: life, daily, project)  ==> **Activities**
 3. **Information/Idea management** (information capture/retrieval: notes, references) ==> **Repositories** and **Archives**

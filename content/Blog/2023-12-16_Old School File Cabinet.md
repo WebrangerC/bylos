@@ -1,6 +1,6 @@
 ---
 up: "[[BYLOS_MOC]]"
-created: "2023-12-16"
+created: 2023-12-16
 day: " Saturday"
 completed: 
 published: 
@@ -10,11 +10,9 @@ effort:
 importance: 1
 urgency: 1
 state: develop
-tags:
-  - BYLOS-blog
+tags: []
 ---
 
-# 2023-12-16_Old School File Cabinet
 I find myself going old school today. I received a Magazine (yup, a paper magazine) Renewal reminder in the snail mail today. Searched around to see when my current subscription expired (next March) but determined that the buy one send one as a gift was too good to pass up.  I checked the on-line renew but it didn't offer the buy one/get one,  so I filled out the (paper) form, separated at the perforations, placed it in the supplied envelope, found a stamp and took it to the mailbox.  (Trust me, this is going somewhere.)
 
 Got back to my desk and now have to file the renewal notice so I can find it next year to remember when my subscription expires when they start sending me renewal notices months ahead of time. I go to my file cabinet and pull my 'Subscriptions' folder and say "WHAT???". (so this is where we're going).

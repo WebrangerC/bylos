@@ -9,6 +9,4 @@ tags:
   - "#knowledge"
 ---
 
-## Knowledge
-
 My understanding of 'knowledge' is that it is the a synthesis of the implication of data sets and how to apply them, essentially data in motion. Knowledge is an action word.

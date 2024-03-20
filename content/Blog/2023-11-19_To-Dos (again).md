@@ -2,10 +2,8 @@
 created: 2023-11-19
 day: " Sunday"
 published: 2023-11-20
-tags:
-  - BYLOS-blog
+tags: []
 ---
-# To-Dos (again)
 We all have a daily list of things we should do.  I like to keep it in the same place I evaluate the rest of my use of time. I had been trying to manage to-dos using a project perspective  but found this insufficiently nimble as it was generally literally a list.  While migrating my notes from FAKRA to VACAR, I realized that both the effort and project perspectives overlooked this important aspect of daily  life - 'to-dos.'
 
 To begin with, let's characterize/differentiate efforts, projects and to dos.  Nick Milo introduced 'Efforts' in his Ideaverse which can be investigated [here](https://start.linkingyourthinking.com/ideaverse-for-obsidian) 

@@ -1,13 +1,9 @@
 ---
 tags:
-- date/2022-04
-- BYLOS-blog
-- Obsidian
-started::  2022-04-13
+  - Obsidian
+"started:": 2022-04-13
 published: 2022-04-13
 ---
-
-# Hardest Part of changing Second Brain styles?
 
 Moving myself from a P.A.R.A. orientation to my FAVA style is taking way more time than I like. However, since I never did any clean-up when I moved from Evernote to Obsidian, there was a lot of detritus. Hopefully while re-classifying and whittling down the entries, I am also freeing up some of my first brain. 
 

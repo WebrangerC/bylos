@@ -4,7 +4,6 @@ published: 2023-11-17
 keywords: 
 tags:
 ---
-# Name Change - VACAR
 I have been questioning my use of the word Focus, which indicated what you should do, and decided to replace it with the word that addresses WHY you are doing - VALUEs. While life can drive us to play on [Maslow's field](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs), our better selves should be driving to meet our best expectations of ourselves (and, of course, you set 'best'). This is important because “How we spend our days is, of course, how we spend our lives.”  
 ― Annie Dillard, The Writing Life 
 (I think of it as "the way we spend our time", but Dillard deserves the credit). 

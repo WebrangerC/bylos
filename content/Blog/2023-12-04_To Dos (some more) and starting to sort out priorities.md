@@ -12,8 +12,6 @@ urgency: 3
 tags:
   - "#todos"
 ---
-# To Dos (some more) and starting to sort out priorities
-
 Evidently I don't tire of this topic. Maybe it's because every time I turn around there is another thing to do that doesn't fit easily into a project or effort. Again projects are bringing sequences of tasks to a conclusion and efforts are fuzzy, less defined things that could grow up to be a project or a task in a project, or just get done. To dos are pretty well defined, pretty independent and just-need-to-get-done. They are easy to stray from and may pile high in the waiting for time bin.In good Getting Things Done mode, having that bin to put them that in and can be  easily and repeatably reviewed is key, along with the habit of actually putting them there and reviewing them. I'm also finding that a defined mechanism for assessing relative value is important. But we all know that, it's getting to execution that's a problem (well, at least for me). So here's the priorities part. I've thrown out the idea of a single priority value and have started assessing importance and urgency to get rankings.
 
 ![[BYLOS/_resources/Ranking-4-block.excalidraw.png]]

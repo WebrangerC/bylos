@@ -1,15 +1,11 @@
 ---
-tags:
-- date/2022-07
-- BYLOS-blog
+tags: []
 state: state/develop
-started:  2022-07-18
+started: 2022-07-18
 published: 2022-07-23
 ---
 keywords:: #-kw/habit
 
-
-# Habitualizing a Balanced Life
 Habits can be good (brush your teeth every morning/evening) or bad(looking at stock market results daily). I've got those two and a bunch more, but I'm trying to overbalance on the "good habit" side.  It should be no surprise that I'm using Obsidian.md to help. My current effort is the attempt to stay active in the three [[+About Focus|Focuses]] driving my LifeOS. I have added a little tracker to my Daily Note:
 ![[2022-07-24_Habits-1.png]]
 which I summarize in my Weekly Note.

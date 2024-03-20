@@ -1,11 +1,8 @@
 ---
-tags:
-- date/2022-07
-- BYLOS-blog
-started:  2022-07-09
-published: 2022-07-10 
+tags: []
+started: 2022-07-09
+published: 2022-07-10
 ---
-# Updates for Daily Use 
 
 On June 30, I posted about changing my To-do area to display: 
 ![[DO-Today Query_2022-07-01.png]]

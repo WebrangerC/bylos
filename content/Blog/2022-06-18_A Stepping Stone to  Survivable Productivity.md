@@ -1,13 +1,11 @@
 ---
 tags:
-- date/2022-06
-- BYLOS-blog
-- Daily-Note
-started::  2022-06-18
+  - Daily-Note
+"started:": 2022-06-18
 published: 2022-06-18
 ---
 
-# A Stepping Stone to Survivable Productivity
+
 For the last week or two I've been working primarily in the area of Projects and managing my to-do list. With my extended history there are many methods and mechanisms I have tried and usually there are more than one of them in place at a time. This is crazy. I never know which list I should put something on, which list I did put something on, if I already put it on a different list or where (paper, electronic) the list is. Just between Evernote, Keep,  Calendar and Project it was pandemonium. 
 
 I'm now migrating my tasks and to-dos into tasks associated with Kanban boards and their associated projects. The process is a bit manual at the moment but I 'm hopeful that it's only because I'm migrating data. 

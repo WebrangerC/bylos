@@ -1,16 +1,12 @@
 ---
 tags:
-- date/2022-04
-- BYLOS-blog
-- LifeOS
-- PKM
-- Productivity
-- Obsidian
-started::  2022-04-04
+  - LifeOS
+  - PKM
+  - Productivity
+  - Obsidian
+"started:": 2022-04-04
 published: 2022-04-04
 ---
-
-# A new thread – Productivity, PKM and LifeOS
 
 I have spent way too much of my life trying ‘[to get it together](https://www.youtube.com/watch?v=AOoeoiO-3C0)‘. The last few months have brought together some philosophy and technology that have me thinking that progress may be made. Here I present some investigation, some thinking and maybe some support for others on this journey. I hadn’t planned it but it appears there may be some music thrown in. Feel free to ignore it as it wasn’t ‘[part of the plan](https://www.youtube.com/watch?v=wTtSyCxHyW0)‘. Maybe someday I’ll understand.
 

@@ -1,3 +1,2 @@
-# **Principled Living**
 
 My philosophical view is that we spend our time and consume our lives. We spend our time on activities that interest us or are required of us (think [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)) and and therefore align with our underlying nature.   Our lives are defined by how we **decide** to [spend our time](https://seths.blog/2022/08/time-and-focus-and-energy/).  Yes, I recognize that we are not always perfectly in control of our time - we therefore need to be cognizant of our time and control what we can. 

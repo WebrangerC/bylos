@@ -1,13 +1,10 @@
 ---
 tags:
-- date/2022-05
-- BYLOS-blog
-- Daily-Note
-started::  2022-05-13
+  - Daily-Note
+"started:": 2022-05-13
 published: 2022-05-13
 ---
 
-# Daily Notes and Calendar
 I started out with Obsidian using the Daily Notes plug-in and opening a Daily Note everyday. This worked out well as I was tracking blood pressure readings on a daily basis so I added a field to my daily-note template (see below). That's an advantage of using templates; they can be adjusted as you change your focus.
 
 Recently, I added the Calendar plug-in and started using this layout (also stored as a Workspace, so I can easily get back to it):

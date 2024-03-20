@@ -1,6 +1,6 @@
 ---
 up: "[[BYLOS_MOC]]"
-created: "2023-12-19"
+created: 2023-12-19
 day: " Tuesday"
 completed: 
 published: 
@@ -10,11 +10,8 @@ effort:
 importance: 1
 urgency: 1
 state: develop
-tags:
-  - BYLOS-blog
+tags: []
 ---
-
-## Content
 For longer files with sub-sections, it would be nice to have a way to quickly get to individual sections. Surprise, someone who can code thought this too. Take a look at "Automatic Table Of Contents" in the Community Plug-ins. 
 This is an example:
 ![[AutomaticTableOfContents-1.png]]
