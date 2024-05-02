@@ -1,1 +1,3 @@
-When you really want to get rid of a file or directory and don't want it in your hidden "trash" folder, move it here and do a hard delete from your computer's operating system
+When you really want to get rid of a file or directory and don't want it in your hidden "trash" folder, move it here and do a hard delete from your computer's operating system. 
+
+This may have been a response to my missing the option in Obsidian's setup for file and links to delete to the system trash. Once i found that setting and was comfortable that it worked AND i could recover files from the system trash, I stopped using HARD-DELETE which also simplified maintenance tasks.
