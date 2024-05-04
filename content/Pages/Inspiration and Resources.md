@@ -1,5 +1,7 @@
 ---
-pageno:: 95.01
+title: 
+date: 2024-05-03
+draft: false
 ---
 
 # The inspiration for FAKRA

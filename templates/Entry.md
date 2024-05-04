@@ -1,5 +1,6 @@
 ---
-title: <% tp.file.title %>
+title: 
 date: 
 draft: false
 ---
+![[Site Map]] 
