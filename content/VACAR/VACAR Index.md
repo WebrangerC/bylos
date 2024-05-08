@@ -5,4 +5,4 @@ draft: false
 ---
 ![[Site Map]] 
 
-This page will help you navigate around VACAR, my LOS to provide philosophy and implementation ideas.
+This section will present VACAR, my LOS to provide implementation ideas.

@@ -8,6 +8,8 @@ draft: false
 
 BYLOS is the instantiation of my Life Operating System (~~FAKRA~~ [[2023-11-17_Name Change - VACAR|VACAR]]) using Obsidian.md. It is a work-in-progress  describing ~~[[BYLOS/Obsidian/FAKRA/1 Overview/01-01 Introduction|FAKRA]]~~  [[2023-11-17_Name Change - VACAR|VACAR]] ,  [[discussing the concepts]], the tool [[Obsidian Introduction|Obsidian]] and provides an [[+About ~Atlas|example]] of the pairing. 
 
+This journey is being captured by [[Blog_Index|blog entries]] and [[Musings Index|musings]] leading to [[VACAR Index|VACAR]]. The blog provides specific information I'm presenting to keep you informed of progress. My musings capture my questions, my wrestling with the questions and general philosophy on life -  observing it, managing it and sometimes just surviving it. 
+
 >[!danger]-  Site Update
 > Since my December post, I've switched my static site generator to Quartz which has allowed me to apply a "Let's Encrypt" certificate and also simplified my workflow. This will hopefully decrease the friction between my learning and my posting. 
 >
@@ -29,7 +31,7 @@ BYLOS is the instantiation of my Life Operating System (~~FAKRA~~ [[2023-11-17_N
 >
 >As this is a work in progress, I find that I am adding/changing things sometimes before I capture them here. It makes for a slippery slope but might provide some insight to others (and keep me focused).
 
-# Latest [[BYLOS/Blog/Blog_Index|Blog]] Posts
+# Latest [[Blog_Index|Blog]] Posts
 ![[2024-03-11_What I touched]]
 ![[2023-12-20_Why accepting To Dos is Liberating]]
 
