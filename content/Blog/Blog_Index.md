@@ -1,6 +1,17 @@
+---
+title: Blog Index
+created: 
+day: Wednesday
+draft: false
+completed: 
+published: 
+updated: 
+state: published
+tags:
+  - blog
+---
 
-### Blog Index
-
+- [[2024-06-19_Driving a new habit]]
 - [[2024-06-12_A DIKW Guy]]
 - [[2023-09-05_Back to Update Site]]
 - [[2022-10-25_keywords]]
