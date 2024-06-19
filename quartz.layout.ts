@@ -1,6 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+
+const explorerFilterFn = (node: FileNode) => {
+  return !["tags", "_resource", "Cards", "FAKRA", "Pages", "Pages-Examples"].some((path) => node.name.includes(path))
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -26,7 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({ filterFn: explorerFilterFn })),
   ],
   right: [
     Component.Graph(),
@@ -43,7 +48,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({ filterFn: explorerFilterFn })),
   ],
   right: [],
 }

@@ -33,7 +33,7 @@ Nick promotes using linking as a mechanism to aid knowledge discovery, hence [Li
 
 - [Systemics and design principles in support of Tiago Forte’s PARA framework](https://axle.design/systemics-and-design-principles-in-support-of-tiago-forte-s-para-framework) - Ryan J.A. Muphy
 - [Comparisons of GTD, LyT, PARA, BaSB, ZettleKasten, MOC, PLM](https://www.reddit.com/r/Zettelkasten/comments/mdfdoi/lyt_zettelkasten_basb_etc_are_the_same/)
-- [Evergreen Notes](https://publish.obsidian.md/andymatuschak/Andy+Matuschak/Evergreen+notes)  - Andy Matuschak
+- [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX)  - Andy Matuschak
 
 ## Special Mention
 **Evil Genius Chronicles – Dave Slusher**  

@@ -1,41 +1,45 @@
 ---
 title: nul
-date: 2024-05-03
 draft: false
+created: 2024-05-03
+day: Friday
+completed: 
+published: 
+updated: 
+state: develop
+tags:
 ---
-![[Site Map]]
 # Build YOUR <b>L</b>ife Operating System (BYLOS)
 
-BYLOS is the instantiation of my Life Operating System (~~FAKRA~~ [[2023-11-17_Name Change - VACAR|VACAR]]) using Obsidian.md. It is a work-in-progress  describing ~~[[BYLOS/Obsidian/FAKRA/1 Overview/01-01 Introduction|FAKRA]]~~  [[2023-11-17_Name Change - VACAR|VACAR]] ,  [[discussing the concepts]], the tool [[Obsidian Introduction|Obsidian]] and provides an [[+About ~Atlas|example]] of the pairing. 
+BYLOS is the website describing the instantiation of an environment to aid integrating my values with my actions - my Life Operating System. My LOS has developed incrementally over the last couple of years and is currently called  [[2023-11-17_Name Change - VACAR|VACAR]] and implemented in [[Obsidian Introduction|Obsidian.md]] . BYLOS is a work-in-progress  describing [[2023-11-17_Name Change - VACAR|VACAR]] ,  [[discussing the concepts]], the tool [[Obsidian Introduction|Obsidian]] and provides an [[+About ~Atlas|example]] of the pairing. 
 
-This journey is being captured by [[Blog_Index|blog entries]] and [[Musings Index|musings]] leading to [[VACAR Index|VACAR]]. The blog provides specific information I'm presenting to keep you informed of progress. My musings capture my questions, my wrestling with the questions and general philosophy on life -  observing it, managing it and sometimes just surviving it. 
+My journey is being captured by [[Blog_Index|blog entries]] and [[Musings Index|musings]]. My goal is to offer a view into the trials and tribulations of wrestling with belief systems, thought processes, methods and tools. It is meant to suggest that experiencing difficulties while developing a system and tool for your own use is not uncommon and to provide one example of working through the (a) process to get there.
+
+The blog provides specific information I'm presenting to keep you informed of my specific changes. My musings provide a longer form capture of my questions, my wrestling with the questions and general philosophy on life -  observing it, managing it and sometimes just surviving it. 
+
+The previous version, [[BYLOS/Obsidian/FAKRA/1 Overview/01-01 Introduction|FAKRA]], was superseded in late 2023. My  initial attempt was to keep this site as a combination of the FAKRA and VACAR but that sidetracked me from presenting the current state so I am rebuilding as VACAR and will reference changes that I have made, possibly without the actual site for you to view. 
+## Topic/Concept
+My to-do list is always too long, I want to do everything
+
+## Content
+
+## Quotes
+
 
 >[!danger]-  Site Update
 > Since my December post, I've switched my static site generator to Quartz which has allowed me to apply a "Let's Encrypt" certificate and also simplified my workflow. This will hopefully decrease the friction between my learning and my posting. 
 >
 >The biggest change, as can be seen from the Intro is that my underlying structure has changed. A gap between what I am doing and the terminology I've used led me to [[2023-11-17_Name Change - VACAR|VACAR]]. A deeper dive into [[Inspiration and Resources|Nick MIlo's]] Linking Your Thinking/Ideaverse and [[Inspiration and Resources|Tiago Forte's]] Building a Second Brain and P.A.R.A. has modified some of my processes. The philosophy underlying my [[Life Operating System]] is unchanged.
 >
->It will take me some time to fix terminology and links on the site while retaining the history of my process so you can see how I got here. In a few weeks I'll ask you to let me know when you find thing that I've missed. Thanks for your patience.
->
->[[2024-02-22_Site Update]]
+>It will take me some time to fix terminology and links on the site while retaining the history of my process so you can see how I got here. In a few weeks I'll ask you to let me know when you find thing that I've missed. Tha[](Inspiration%20and%20Resources.md)te Update]]
 
->[!question]-  **Why I am publishing this**
->I was introduced to the contemporary thinkers in the areas of productivity, knowledge management and principled living after I started trying to implement P.A.R.A. using Evernote during the summer of 2021 and switched to [[Obsidian Introduction|Obsidian.md]] during the fall of 2021 as an Evernote replacement. I say "contemporary" because I have some [[About|history]] with these topics, so P.A.R.A. resonated with me for information storage and retrieval. It did not address task/todo management or [[Knowledge Synthesis]] so I struggled for a few months until [[Inspiration and Resources|Tiago Forte's]]  conference on [Building a Second Brain](https://www.buildingasecondbrain.com/)  Summit in March 2022. [[Inspiration and Resources|August Bradley]] and [[Inspiration and Resources|Nick Milo]] started my recognition that [[Obsidian Introduction|Obsidian.md]] could actually provide bridges between these critical areas. 
->
->As I started on this phase of my journey and realized that much of what I was doing was in flux (but gelling if not setting yet). I wanted to capture the process of development (for me) and provide an  example of customizing these ideas (for you). 
->
->I decided it is ok to try things that end up not being in the final cut and to even share the efforts in [public](https://publish.obsidian.md/andymatuschak/Andy+Matuschak/Work+with+the+garage+door+up) 
->I plan on explaining [[Blog/Blog_Index|what I'm doing]] or [[Blog_Index|have done]], some of [[Musings_Introduction|what I'm thinking]] and [[Inspiration and Resources|the inspiration for my thinking]].  
->
->Please reach out to me with comments and ideas at bruce@bylos.net. I will be setting up a discussion forum somewhere and will provide a link when it is available. 
->
->As this is a work in progress, I find that I am adding/changing things sometimes before I capture them here. It makes for a slippery slope but might provide some insight to others (and keep me focused).
+>[!question]-   **Why am I even doing this website**
+>![[2022-07-25_Why am I even doing this website]]
 
-# Latest [[Blog_Index|Blog]] Posts
-![[2024-03-11_What I touched]]
-![[2023-12-20_Why accepting To Dos is Liberating]]
+# Latest [[Blog_Index|Blog]] Post(s)
+![[2024-06-19_Driving a new habit]]
 
----
+![[2024-06-12_A DIKW Guy]]
 ## [[Blog_Index|==> more]]
 
 

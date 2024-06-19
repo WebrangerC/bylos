@@ -1,6 +1,6 @@
 # Obsidian Introduction (at least here)
 
-[Obsidian.md](https://obsidian.md) is the software tool that I've used to implement my Life OS, FAKRA which I am presenting as Build YOUR Life Operating System. It is a [Markdown](https://en.wikipedia.org/wiki/Markdown) editor and display tool but is expandable by plug-ins. This has generated a vibrant community of users (process) and developers (extended functionality). 
+[Obsidian.md](https://obsidian.md) is the software tool that I've used to implement my Life OS,  which I am presenting as Build YOUR Life Operating System. It is a [Markdown](https://en.wikipedia.org/wiki/Markdown) editor and display tool but is expandable by plug-ins. This has generated a vibrant community of users (process) and developers (extended functionality). 
 
 The fact that Obsidian is based on markdown makes it an 'open' tool in that there are other editors/readers that can be used with the file. The files are stored locally, so you are not 'captured' by a provider, although the developers of Obsidian do offer extended services for synchronizing your files across devices and publishing your notes as a website. 
 
