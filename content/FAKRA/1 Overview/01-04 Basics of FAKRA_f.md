@@ -37,4 +37,4 @@ Along with these elements, I have a few support elements:
 	the place I move files and folders I don't want to hold in my .trash that I periodically delete via the computer file manager.
   
 
-[[01-03 Philosophical Basis for My LifeOS|Back to Philosophical Basis for My LifeOS]]    <====>   [[01-05 My Information Architecture|Forward to My Information Architecture]]
+[[01-03 Philosophical Basis for My LifeOS_f|Back to Philosophical Basis for My LifeOS]]    <====>   [[01-05 My Information Architecture_f|Forward to My Information Architecture]]

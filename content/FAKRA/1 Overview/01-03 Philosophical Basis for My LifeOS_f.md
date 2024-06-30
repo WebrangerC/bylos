@@ -12,9 +12,9 @@ Each area of Focus will have its own projects, tasks and resources.  This makes 
 
 So we have areas of Focus and Activities coupled. That leaves us with PKM. 
 
-PKM is a separate activity but can be exercised in specific support of projects or generally in support of an area of Focus. As you are spending your most important resource (time) in the knowledge activity it does imply that there should be a correlation to your areas of most likely through a Project, Sphere or Interest.  Sprouts in the [[+About Knowledge Garden|Knowledge Garden]] should reference [[+Concepts and Context|Concepts and Context]] so the can be considered in relation to Focus or Activity.
+PKM is a separate activity but can be exercised in specific support of projects or generally in support of an area of Focus. As you are spending your most important resource (time) in the knowledge activity it does imply that there should be a correlation to your areas of most likely through a Project, Sphere or Interest.  Sprouts in the [[+About Knowledge Garden_f|Knowledge Garden]] should reference [[+Concepts and Context_f|Concepts and Context]] so the can be considered in relation to Focus or Activity.
 
-[[01-02 PARA + PPV + LyT + Experience=> FAKRA|Back to Basics of FAKRA]]    <====>   [[01-04 Basics of FAKRA|Forward to Basics of FAKRA]]
+[[01-02 PARA + PPV + LyT + Experience=> FAKRA_f|Back to Basics of FAKRA]]    <====>   [[01-04 Basics of FAKRA_f|Forward to Basics of FAKRA]]
 
 
 

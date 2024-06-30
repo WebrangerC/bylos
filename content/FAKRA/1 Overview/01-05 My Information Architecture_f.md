@@ -21,4 +21,4 @@ Level "10" through "50" are the core of FAKRA
 Level "90" holds Obsidian support 
 [[90-Bins|90-Bins]]
 
-[[01-04 Basics of FAKRA|Back to Basics of FAKRA]]    <====>  [[02-01 My Principled Living Flow|Forward to My Principled Living Flow]]
+[[01-04 Basics of FAKRA_f|Back to Basics of FAKRA]]    <====>  [[02-01 My Principled Living Flow_f|Forward to My Principled Living Flow]]

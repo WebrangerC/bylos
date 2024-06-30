@@ -14,7 +14,7 @@ state: publish
 tags:
   - BYLOS-blog
 ---
-Here are the top-level folders associated with VACAR (or +VACAR).  "~" and "~," used to sort correctly.
+Here are the top-level folders associated with VACAR.  "~" and "~," used to sort correctly.
 # +
 This is my inbox,  a place to store entries for later review. A easy way to create a list of recent new entries.  A place for QuickAdd to start entries so they don't get lost. I originally called this "Inbox", but Milo's "+" sorts correctly.
 # ~.Values

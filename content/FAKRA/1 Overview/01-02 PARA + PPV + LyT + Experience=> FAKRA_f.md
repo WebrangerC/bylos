@@ -12,13 +12,13 @@ Obsidian is a tool that stores data locally but synchronizes using the internet 
 
 For a system to work for **YOU** (and for you to use it), **YOU** have to determine what **YOUR** personal motivation are and select or create a compatible system to support your goals.
 
-**My choice is to create a system addressing all four areas, a [[Life Operating System|Life OS]]:**
+**My choice is to create a system addressing all four areas, a [[Life Operating System_f|Life OS]]:**
 1.  **Life-oriented philosophy/principled living** driving motivation  ==> **Focus**
 2. **Planning/Productivity** (task management: life, daily, project)  ==> **Activities**
 3. **Information/Idea management** (information capture/retrieval: notes, references) ==> **Repositories** and **Archives**
 4. **Knowledge management** (knowledge consolidation/discovery/retrieval: using links, tags and mapping) ==> **Knowledge Garden**.
 
-The extent that I apply the four areas will be my personal "[[focused offering]]".
+The extent that I apply the four areas will be my personal "[[focused offering_f]]".
 
- [[01-01 Introduction|Back to Introduction]]    <====>  [[01-04 Basics of FAKRA|Forward to Basics of FAKRA]]  
+ [[01-01 Introduction_f|Back to Introduction]]    <====>  [[01-04 Basics of FAKRA_f|Forward to Basics of FAKRA]]  
  

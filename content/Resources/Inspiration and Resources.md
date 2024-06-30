@@ -5,13 +5,13 @@ draft: false
 ---
 
 # The inspiration for FAKRA
-**P.A.R.A – Tiago Forte**  
+## P.A.R.A – Tiago Forte  
 Tiago coined the idea of [“Building a Second Brain”](https://fortelabs.co/start-here/) based on Project, Areas, Resources and Archives. He bases his work on David Allen’s [Getting Things Done (GTD)](https://gettingthingsdone.com/) and adds a step up to digital materials. Tiago promotes the best tool for the job and offers  suggestions.
 
-**PPV – August Bradley**  
+## PPV – August Bradley  
 [August](http://www.augustbradley.com) has a focus on the flow of organization which he tags as a Life Operating System based on [Pillars, Pipelines and Vaults (PPV)](https://www.youtube.com/user/augustbradley). Notion is his tool of choice. ^4811d5
 
-**LyT – Nick Milo**  
+## LyT – Nick Milo 
 Nick promotes using linking as a mechanism to aid knowledge discovery, hence [Linking Your Thinking(LyT)](https://www.linkingyourthinking.com)  Obsidian is his tool of choice. ^b347f7
 
 # Tools

@@ -20,10 +20,6 @@ Dataview
    - Treat your Obsidian Vault as a database which you can query from.
     - https://github.com/blacksmithgu/obsidian-dataview
 
-Emoji Toolbar
-   - Quickly search for and add emojis to your editor.
-    - https://github.com/oliveryh/obsidian-emoji-toolbar
-
 Homepage
    - Open a specified note upon launching Obsidian, instead of the most recent one
     - https://github.com/mirnovov/obsidian-homepage
@@ -31,10 +27,6 @@ Homepage
 Hotkeys for specific files
    -  Open specific files with a hotkey.
     - https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files
-
-Kanban
-   - Create markdown-backed Kanban boards in Obsidian
-    - https://github.com/mgmeyers/obsidian-kanban
 
 MetaEdit
    - Powerful editing - see the site
@@ -48,29 +40,21 @@ Note Refactor
    - Extracting the selected portion of a notes into new note.
     - https://github.com/lynchjames/note-refactor-obsidian
 
-Pane Relief
-   - Adds per-pane navigation history along with keyboard commands for jumping to specific panes, or moving them around.
-    - https://github.com/pjeby/pane-relief
-
 Periodic Notes
    - Create and manage all of your time-based notes.
     - https://github.com/liamcain/obsidian-periodic-notes
 
-Pocket
-   - Allows you to sync your Pocket reading list into Obsidian, so that you can easily create Obsidian notes directly from your Pocket reading list.
-    - https://github.com/nybbles/obsidian-pocket
+~~Pocket~~
+   - [GitHub - nybbles/obsidian-pocket: Pocket integration for Obsidian](https://github.com/nybbles/obsidian-pocket) 
+     I no longer use pocket as I save directly to Obsidian
 
 QuickAdd
    - Quickly add new pages or content to your vault.
     - https://github.com/chhoumann/quickadd
 
-Recent Files
-   - Displays a list of most recently opened files in the sidebar.
-    - https://github.com/tgrosinger/recent-files-obsidian
-
-Sliding Panes (Andy's Mode)
-   - Changes the way panes in the main workspace are handled
-    - https://github.com/deathau/sliding-panes-obsidian
+~~Recent Files~~
+   - [GitHub - tgrosinger/recent-files-obsidian: Display a list of most recently opened files](https://github.com/tgrosinger/recent-files-obsidian) 
+     I am no longer using this plugin as dataview provides this function
 
 Tag Wrangler
    - Adds a context menu for tags with search, rename and more.

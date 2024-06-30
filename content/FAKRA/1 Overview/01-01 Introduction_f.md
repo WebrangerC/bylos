@@ -4,7 +4,7 @@ pageno:: 01.00
 
 # Introduction
 
-I began applying [P.A.R.A.](https://fortelabs.co/blog/para/), in Evernote in June 2020 and migrated to Obsidian in October. One issue I found was separating information between Areas and Resources. After spending a week at the [Build A Second Brain Summit](https://www.youtube.com/playlist?list=PLVNXAaej57W61wW9vtPNYPIuDnVQLP5TH), I recognized (my fault) that Areas and Resources are logical rather than physical constructs. In addition, expanding the ‘life coverage’ to be the driver for the Projects provides a [[Life Operating System]] (re: August Bradley/PPV). Additionally, the idea of Personal Knowledge Management started to percolate. This led me to believe that there is a dissonance between the (P)KM and Productivity crowds based on the goals and deliverables of the two groups. This leads to different [[focused offering|focused offerings]] based on founder interest, business models and potential customers.
+I began applying [P.A.R.A.](https://fortelabs.co/blog/para/), in Evernote in June 2020 and migrated to Obsidian in October. One issue I found was separating information between Areas and Resources. After spending a week at the [Build A Second Brain Summit](https://www.youtube.com/playlist?list=PLVNXAaej57W61wW9vtPNYPIuDnVQLP5TH), I recognized (my fault) that Areas and Resources are logical rather than physical constructs. In addition, expanding the ‘life coverage’ to be the driver for the Projects provides a [[Life Operating System_f]] (re: August Bradley/PPV). Additionally, the idea of Personal Knowledge Management started to percolate. This led me to believe that there is a dissonance between the (P)KM and Productivity crowds based on the goals and deliverables of the two groups. This leads to different [[focused offering_f|focused offerings]] based on founder interest, business models and potential customers.
 
 Some of the methods primarily address tactical execution (Franklin, Covey, GTD, PARA), some address KM (zettelkasten, LyT) and lastly the more expansive scope of the Life Operating Systems (PPV).
 
@@ -20,4 +20,4 @@ There are four broad areas that are at least somewhat addressed from the beginni
 3.  knowledge consolidation/discovery/retrieval
 4.  life vision (actually first if we think Benjamin Franklin's Jourmal)
 
-[[98-Websites/Website-BYLOS/index|Back to Home]]    <====>   [[01-02 PARA + PPV + LyT + Experience=> FAKRA|Forward to PARA + PPV + LyT + Experience]]
+[[98-Websites/Website-BYLOS/index|Back to Home]]    <====>   [[01-02 PARA + PPV + LyT + Experience=> FAKRA_f|Forward to PARA + PPV + LyT + Experience]]
