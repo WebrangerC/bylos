@@ -30,6 +30,8 @@ The previous version, [[01-01 Introduction_f|FAKRA]], was superseded in late 202
 >![[2022-07-25_Why am I even doing this website]]
 
 # Latest [[Blog_Index|Blog]] Post(s)
+![[2024-06-30_Incorporating LATCH]]
+
 ![[2024-06-19_Driving a new habit]]
 
 ![[2024-06-12_A DIKW Guy]]

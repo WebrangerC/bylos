@@ -11,6 +11,7 @@ tags:
   - blog
 ---
 
+- [[2024-06-30_Incorporating LATCH]]
 - [[2024-06-19_Driving a new habit]]
 - [[2024-06-12_A DIKW Guy]]
 - [[2023-09-05_Back to Update Site]]
