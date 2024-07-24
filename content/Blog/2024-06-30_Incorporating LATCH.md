@@ -17,6 +17,6 @@ I found I was already using these ideas, although not with those specific terms,
 - **ALPHABET** is the basis for my virtual File Cabinet: fc-divider (which I will retire), fc-pendaflex, fc-folder
 - **TIME** is covered by a number of entries: created, completed, due, reminders, released
 - **CATEGORY** is used in my FIle Cabinet (fc-catefory) and randomly elsewhere
-- **HIERARCHY** is captured in "up"/"related" and "rank"
+- **HIERARCHY** is captured in "up", "related" and "rank"
 
 Turns out I'm off to good start. I need to be more mindful in application, consolidate inconsistencies and work to enhance my discovery, recovery and colliding tools.

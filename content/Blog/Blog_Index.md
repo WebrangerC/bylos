@@ -10,7 +10,9 @@ state: published
 tags:
   - blog
 ---
-
+- [[2024-07-23_Managing my self-imposed over-flowing plate]]
+- [[2024-07-22_Setting up Workbenches]]
+- [[2024-07-21_But I get up again]]
 - [[2024-06-30_Incorporating LATCH]]
 - [[2024-06-19_Driving a new habit]]
 - [[2024-06-12_A DIKW Guy]]
