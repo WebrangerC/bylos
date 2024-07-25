@@ -10,6 +10,7 @@ state: published
 tags:
   - blog
 ---
+- [[2024-07-24_Value Planning]] 
 - [[2024-07-23_Managing my self-imposed over-flowing plate]]
 - [[2024-07-22_Setting up Workbenches]]
 - [[2024-07-21_But I get up again]]

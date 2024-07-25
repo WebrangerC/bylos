@@ -26,10 +26,11 @@ The previous version, [[01-01 Introduction_f|FAKRA]], was superseded in late 202
 >
 >It will take me some time to fix terminology and links on the site while retaining the history of my process so you can see how I got here. 
 
->[!question]-   **Why am I even doing this website**
->![[2022-07-25_Why am I even doing this website]]
+>[!question]-   **Why am I doing this website**
+>![[2022-07-25_Why am I doing this website]]
 
 # Latest [[Blog_Index|Blog]] Post(s)
+![[2024-07-24_Value Planning]]
 
 ![[2024-07-23_Managing my self-imposed over-flowing plate]]
 
@@ -39,7 +40,6 @@ The previous version, [[01-01 Introduction_f|FAKRA]], was superseded in late 202
 
 ![[2024-06-30_Incorporating LATCH]]
 
-![[2024-06-19_Driving a new habit]]
 ## [[Blog_Index|==> more]]
 
 
