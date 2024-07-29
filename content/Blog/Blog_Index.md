@@ -10,6 +10,8 @@ state: published
 tags:
   - blog
 ---
+- [[2024-07-27_Managing MOCs Update]]
+- [[2024-07-25_Note Taking-Making while Reading]]
 - [[2024-07-24_Value Planning]] 
 - [[2024-07-23_Managing my self-imposed over-flowing plate]]
 - [[2024-07-22_Setting up Workbenches]]

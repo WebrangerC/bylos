@@ -19,17 +19,20 @@ The blog provides specific information I'm presenting to keep you informed of my
 
 The previous version, [[01-01 Introduction_f|FAKRA]], was superseded in late 2023. As one of my goals is to expose changes to my LOS, I have forked the original site which can be accessed [[01-01 Introduction_f|HERE]].
 
->[!danger]-  Site Update - 2024-05-03
-> Since my December post, I've switched my static site generator to Quartz which has allowed me to apply a "Let's Encrypt" certificate and also simplified my workflow. This will hopefully decrease the friction between my learning and my posting. 
->
->The biggest change, as can be seen from the Intro is that my underlying structure has changed. A gap between what I am doing and the terminology I've used led me to [[2023-11-17_Name Change - VACAR|VACAR]]. A deeper dive into [[Inspiration and Resources#LyT – Nick Milo|Nick MIlo's]] Linking Your Thinking/Ideaverse and [[Inspiration and Resources#P.A.R.A – Tiago Forte|Tiago Forte's]] Building a Second Brain and P.A.R.A. has modified some of my processes. The philosophy underlying my [[Life Operating System_f]] is unchanged.
->
->It will take me some time to fix terminology and links on the site while retaining the history of my process so you can see how I got here. 
-
->[!question]-   **Why am I doing this website**
+>[!youtube]-   **==> MORE**
 >![[2022-07-25_Why am I doing this website]]
 
+>[!danger]+  Latest Update for the site- 2024-07-28
+> 
+> I committed to a challenge starting 7/22 to post an entry each day in the LYT community as a part of my [Writing Original Works](https://www.linkingyourthinking.com/wow)  course. I decided to fulfill that commitment with posts to this site. Hopefully it provides enough of a "forcing function" to habitualize keeping the site updated with my progress.
+>
+> [[Site Updates|All Site Updates]]
+
 # Latest [[Blog_Index|Blog]] Post(s)
+![[2024-07-27_Managing MOCs Update]]
+
+![[2024-07-25_Note Taking-Making while Reading]]
+
 ![[2024-07-24_Value Planning]]
 
 ![[2024-07-23_Managing my self-imposed over-flowing plate]]
@@ -37,10 +40,7 @@ The previous version, [[01-01 Introduction_f|FAKRA]], was superseded in late 202
 ![[2024-07-22_Setting up Workbenches]]
 
 ![[2024-07-21_But I get up again]]
-
-![[2024-06-30_Incorporating LATCH]]
-
-## [[Blog_Index|==> more]]
+## [[Blog_Index|ALL Blog Posts]]
 
 
 # Latest [[Musings Index|Musing]]
