@@ -29,19 +29,13 @@ The previous version, [[01-01 Introduction_f|FAKRA]], was superseded in late 202
 > [[Site Updates|All Site Updates]]
 
 # Latest [[Blog_Index|Blog]] Post(s)
+![[2025-02-12_Enabling Daily Freewriting]]
+
 ![[2024-07-27_Managing MOCs Update]]
 
 ![[2024-07-25_Note Taking-Making while Reading]]
 
-![[2024-07-24_Value Planning]]
-
-![[2024-07-23_Managing my self-imposed over-flowing plate]]
-
-![[2024-07-22_Setting up Workbenches]]
-
-![[2024-07-21_But I get up again]]
 ## [[Blog_Index|ALL Blog Posts]]
-
 
 # Latest [[Musings Index|Musing]]
 
